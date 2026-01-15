@@ -1,5 +1,19 @@
 # 📋 Schnellreferenz: Buchungssätze für den Test
 
+## 🧠 Wie du dieses Cheatsheet nutzt (siehe LERNSTRATEGIE.md)
+
+**NICHT SO:** ❌ Passiv durchlesen und hoffen, dass es hängen bleibt  
+**SONDERN SO:** ✅ Aktives Recall:
+1. Decke die Buchungssätze zu
+2. Versuche sie aus dem Kopf aufzuschreiben
+3. 10 Sekunden NICHTS tun
+4. Dann vergleichen und Fehler markieren
+5. Fehlerhafte nochmal aus dem Kopf üben
+
+**💡 FEYNMAN:** Kannst du jeden Buchungssatz in einfachen Worten erklären?
+
+---
+
 ## 🎯 Grundregel
 
 ```
@@ -59,6 +73,8 @@ Vorsteuer 19%  MwSt €
 
 **Wichtig:** Vorsteuer IMMER im Soll!
 
+**🧠 RECALL:** Decke die Buchungssätze oben zu und schreibe sie aus dem Kopf auf!
+
 ---
 
 ## 💰 3. LAUFENDE KOSTEN
@@ -85,6 +101,8 @@ Versicherungsaufwand    an  Kasse    X €
 
 **Merke:** Alle Aufwände = Soll!
 
+**⏸️ PAUSE:** 10 Sekunden nichts tun, dann weitermachen!
+
 ---
 
 ## 👤 4. PRIVATKONTEN
@@ -110,6 +128,10 @@ Bank               an  Privateinlagen    X €
 ```
 
 **Merke:** Entnahmen = Soll (wie Aufwand), Einlagen = Haben (wie Ertrag)
+
+**🔗 VERBINDUNG:** Warum sind Entnahmen wie Aufwände?  
+→ Beide nehmen Geld aus dem Unternehmen  
+→ Beide verringern das Eigenkapital
 
 ---
 
@@ -302,6 +324,47 @@ Summe   |    Summe
 | Alle Aufwände        | Soll  | "Kosten = Soll"                    |
 | Eigenkapital Start   | Haben | "Rechte Seite der Bilanz = Haben"  |
 | Abschreibungen       | Soll  | "Aufwand = Soll"                   |
+
+---
+
+## 🧠 Aktives Recall - Blanktest
+
+**Bevor du zur Prüfung gehst, mach diesen Test:**
+
+**Nimm ein leeres Blatt Papier und schreibe AUS DEM KOPF auf:**
+
+1. Die 5 wichtigsten Buchungssätze
+2. Die komplette Abschlusskette (mit Erklärung jedes Schritts)
+3. Die T-Konten-Schemas (Aktiv, Passiv, Aufwand, Ertrag)
+4. Alle Eselsbrücken
+
+**Zeit:** 10 Minuten  
+**Regel:** KEINE Hilfe!
+
+**Dann:**
+- Vergleiche mit diesem Cheatsheet
+- Was fehlt? → Nochmal lernen!
+- Was sitzt? → Perfekt! ✓
+
+**⏸️ 10 SEKUNDEN PAUSE:** Dann mental wiederholen
+
+---
+
+## 💤 Vor dem Schlafen (jeden Abend)
+
+**Mental Rehearsal (im Kopf durchgehen):**
+
+1. Die Abschlusskette (T-Konten → GuV → EK → SBK)
+2. Ein Wareneinkauf mit Vorsteuer
+3. Die 3 häufigsten Fehler
+
+**Warum?** Dein Gehirn konsolidiert im Schlaf! Bis zu 40% besseres Erinnern!
+
+**🎯 Am Testtag Morgen:**
+- NICHT intensiv lernen!
+- Nur kurz dieses Cheatsheet durchblättern (5 Min)
+- Mental die Abschlusskette durchgehen
+- Dann entspannt zum Test! 💪
 
 ---
 
