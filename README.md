@@ -27,7 +27,21 @@ Diese Lernmaterialien sind speziell auf deine Prüfungsanforderungen zugeschnitt
 
 ## 📖 Deine Lernmaterialien
 
-### 1. 📋 [README_LERNPLAN.md](./README_LERNPLAN.md) - **START HIER!**
+### 🧠 [LERNSTRATEGIE.md](./LERNSTRATEGIE.md) - **⚡ NEU! ZUERST LESEN! ⚡**
+**Evidenzbasierte Lernmethoden für maximalen Erfolg in kürzester Zeit**
+
+Diese neue Strategie basiert auf wissenschaftlich bewährten Techniken:
+- ✅ 80/20-Regel (Fokus auf das Wichtigste)
+- ✅ Aktives Recall (3x effektiver als passives Lesen!)
+- ✅ Feynman-Technik (Verstehen durch Erklären)
+- ✅ Optimale Lern-/Pausenzyklen
+- ✅ Schlaf & Konsolidierung
+
+**→ Lies das ZUERST, bevor du anfängst zu lernen!**
+
+---
+
+### 1. 📋 [README_LERNPLAN.md](./README_LERNPLAN.md) - **Inhaltlicher Leitfaden**
 **Dein Hauptleitfaden mit Machbarkeits-Check**
 
 Dieser Guide erklärt dir Schritt für Schritt:
@@ -75,6 +89,18 @@ Dein Spickzettel mit:
 ---
 
 ## 🚀 Empfohlene Lernstrategie
+
+### ⚡ WICHTIG: Neue optimierte Lernstrategie!
+
+**→ Lies zuerst [LERNSTRATEGIE.md](./LERNSTRATEGIE.md) für die BESTE Lernmethode!**
+
+Die neue Strategie zeigt dir:
+- Wie du in kürzester Zeit das Wichtigste lernst (80/20-Regel)
+- Warum "Struggle" besser ist als einfaches Lesen
+- Wann und wie du Pausen machst (10-Sekunden-Regel!)
+- Einen detaillierten 2-3 Tages-Lernplan
+
+### Klassische Lernstrategie (Alternative):
 
 ### Phase 1: Verstehen (1-2 Stunden)
 1. Lies [README_LERNPLAN.md](./README_LERNPLAN.md) komplett durch
@@ -221,8 +247,10 @@ Kannst du das alles?
 .
 ├── 02 - Fallstudien.pdf     # Original-PDF mit Fallstudien (Basis)
 ├── README.md                 # Diese Datei (Übersicht)
-├── README_LERNPLAN.md        # Hauptleitfaden mit Erklärungen ⭐
+├── LERNSTRATEGIE.md          # ⚡ NEU! Evidenzbasierte Lernmethoden ⭐
+├── README_LERNPLAN.md        # Hauptleitfaden mit Erklärungen
 ├── CHEATSHEET.md             # Schnellreferenz für Buchungssätze
+├── SCHNELLSTART.md           # Schnelleinstieg und Übersicht
 └── UEBUNGEN.md               # Übungsaufgaben mit Lösungen
 ```
 

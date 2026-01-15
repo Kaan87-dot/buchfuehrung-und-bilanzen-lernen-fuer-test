@@ -19,7 +19,16 @@ Ich habe für dich einen **idiotensicheren** Lernplan erstellt, der genau auf de
 
 ## 📋 Was ich für dich erstellt habe
 
-### 1. **README_LERNPLAN.md** ⭐ START HIER!
+### 🧠 **LERNSTRATEGIE.md** ⭐ ZUERST LESEN! ⚡
+- **Evidenzbasierte Lernmethoden** (Wissenschaftlich bewiesen!)
+- 80/20-Regel: Fokus auf das Wesentliche
+- Aktives Recall: 3x effektiver als Lesen
+- Feynman-Technik: Verstehen durch Erklären
+- Optimaler Lern-/Pausenrhythmus
+- Detaillierter 2-3 Tages-Lernplan
+- 10-Sekunden-Pausen-Regel
+
+### 1. **README_LERNPLAN.md** - Inhaltlicher Leitfaden
 - **Machbarkeits-Check** mit einfachem Beispiel
 - "Soll an Haben" idiotensicher erklärt
 - Alle wichtigen Themen Schritt für Schritt
@@ -43,7 +52,24 @@ Ich habe für dich einen **idiotensicheren** Lernplan erstellt, der genau auf de
 
 ---
 
-## 🚀 SO GEHST DU VOR (3 Phasen):
+## 🚀 SO GEHST DU VOR (Optimierte Methode):
+
+### ⚡ NEUE EMPFEHLUNG: Evidenzbasierte Lernstrategie
+
+**→ Öffne ZUERST [LERNSTRATEGIE.md](./LERNSTRATEGIE.md)**
+
+Diese Datei zeigt dir:
+- ✅ Wie du in 20% der Zeit 80% des Stoffs lernst
+- ✅ Warum Fehler machen GUT ist (Struggle-Point)
+- ✅ Die Feynman-Technik (Erklären = Verstehen)
+- ✅ Optimale Lern-Sessions mit Pausen
+- ✅ Detaillierter 2-3 Tages-Plan
+
+**Das ist wissenschaftlich fundiert und hilft dir, SCHNELLER und BESSER zu lernen!**
+
+---
+
+### Alternative: Klassische Methode (3 Phasen):
 
 ### Phase 1: Verstehen (1-2 Stunden)
 ```
@@ -181,7 +207,8 @@ Bevor du zur Prüfung gehst, kannst du das alles?
 ├── 02 - Fallstudien.pdf      ← Original-PDF (deine Basis)
 ├── README.md                  ← Übersicht
 ├── SCHNELLSTART.md           ← Diese Datei
-├── README_LERNPLAN.md        ← ⭐ START HIER! Hauptleitfaden
+├── LERNSTRATEGIE.md          ← ⚡ NEU! Evidenzbasierte Lernmethoden ⭐
+├── README_LERNPLAN.md        ← Inhaltlicher Hauptleitfaden
 ├── CHEATSHEET.md             ← Spickzettel für Buchungssätze
 └── UEBUNGEN.md               ← Übungsaufgaben mit Lösungen
 ```
@@ -202,9 +229,11 @@ Nach 5-7 Stunden Lernen mit diesen Materialien:
 ## 🚀 Los geht's!
 
 **Nächster Schritt:**
-1. Öffne [README_LERNPLAN.md](./README_LERNPLAN.md)
-2. Lies den Machbarkeits-Check (erste 3 Seiten)
-3. Wenn du das verstehst → Du schaffst den Rest!
+1. **Öffne [LERNSTRATEGIE.md](./LERNSTRATEGIE.md)** ← NEU! Evidenzbasierte Methoden
+2. Lies die 80/20-Regel und den optimierten Lernplan
+3. Befolge die Pomodoro-Technik mit Pausen
+4. Dann: Öffne [README_LERNPLAN.md](./README_LERNPLAN.md) für den Inhalt
+5. Wenn du das verstehst → Du schaffst den Rest!
 
 ---
 
@@ -217,12 +246,13 @@ Nach 5-7 Stunden Lernen mit diesen Materialien:
 **Was habe ich für dich gemacht:**
 
 ✅ Die PDF "02 - Fallstudien.pdf" ist vorhanden  
+✅ **NEU:** LERNSTRATEGIE.md mit evidenzbasierten Lernmethoden ⚡
 ✅ Idiotensicherer Lernleitfaden erstellt (auf Deutsch!)  
 ✅ Machbarkeits-Check mit Beispielen  
 ✅ Fokus auf das Wesentliche (keine Verkäufe, keine Theorie)  
 ✅ Übungsaufgaben mit vollständigen Lösungen  
 ✅ Cheatsheet für schnelles Nachschlagen  
-✅ Empfohlene Lernstrategie (5-7 Stunden)  
+✅ Optimierte Lernstrategie (Pomodoro + Pausen + Aktives Recall)  
 ✅ Speziell für Fallstudien 5, 6, 9, 10  
 
-**Du kannst jetzt direkt loslegen! → README_LERNPLAN.md öffnen und starten! 🚀**
+**Du kannst jetzt direkt loslegen! → LERNSTRATEGIE.md öffnen und starten! 🚀**
