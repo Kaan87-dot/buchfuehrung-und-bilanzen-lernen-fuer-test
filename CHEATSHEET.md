@@ -77,6 +77,48 @@ Vorsteuer 19%  MwSt €
 
 ---
 
+## 💶 2b. VERKAUF ⚡ NEU IM TEST!
+
+### Warenverkauf (bar)
+```
+Kasse    (X + MwSt) €    an  Umsatzerlöse     X €
+                         an  Umsatzsteuer 19%  MwSt €
+```
+
+### Warenverkauf (auf Ziel/Kredit)
+```
+Forderungen    (X + MwSt) €    an  Umsatzerlöse     X €
+                                an  Umsatzsteuer 19%  MwSt €
+```
+
+### Warenverkauf (per Bank)
+```
+Bank    (X + MwSt) €    an  Umsatzerlöse     X €
+                        an  Umsatzsteuer 19%  MwSt €
+```
+
+### Verkauf Anlagevermögen (z.B. Maschine bar)
+```
+Kasse                (X + MwSt) €    an  Maschinen          Buchwert
+                                     an  Umsatzsteuer 19%   MwSt €
+                                     an  Sonst. betr. Erträge  Gewinn
+```
+**ODER bei Verlust:**
+```
+Kasse                (X + MwSt) €    an  Maschinen          Buchwert
+Sonst. betr. Aufw.   Verlust         an  Umsatzsteuer 19%   MwSt €
+```
+
+**Wichtig:** 
+- Umsatzsteuer IMMER im Haben!
+- Buchwert = Anschaffungswert - Abschreibungen
+- Verkaufserlös > Buchwert = Gewinn (Ertrag)
+- Verkaufserlös < Buchwert = Verlust (Aufwand)
+
+**🧠 RECALL:** Decke die Verkaufs-Buchungssätze zu und schreibe sie aus dem Kopf auf!
+
+---
+
 ## 💰 3. LAUFENDE KOSTEN
 
 ### Miete (Bank)
@@ -152,6 +194,41 @@ Abschreibungen    an  Maschinen    X €
 
 ---
 
+## 📝 5b. RÜCKSTELLUNGEN ⚡ NEU IM TEST!
+
+### Bildung einer Rückstellung
+```
+Sonstige Aufwendungen    an  Rückstellungen    X €
+```
+**ODER spezifischer:**
+```
+Aufwendungen für Rückstellungen    an  Rückstellungen für ...    X €
+```
+
+**Erklärung:**
+- Rückstellungen = Schulden, die wahrscheinlich kommen (z.B. Prozesskosten, Garantien)
+- Aufwand entsteht JETZT (Soll)
+- Verbindlichkeit wird gebildet (Haben, Passivkonto)
+
+### Auflösung einer Rückstellung (wenn eingetreten)
+```
+Rückstellungen    an  Bank/Kasse    X €
+```
+
+### Auflösung einer Rückstellung (wenn nicht eingetreten)
+```
+Rückstellungen    an  Sonst. betr. Erträge    X €
+```
+
+**Wichtig:** 
+- Rückstellungen sind Passiva (stehen im Haben bei Bildung)
+- Unterschied zu Verbindlichkeiten: Höhe/Zeitpunkt unsicher
+- Beispiele: Prozesskosten, Garantien, Pensionen
+
+**🧠 RECALL:** Erkläre den Unterschied zwischen Rückstellungen und Verbindlichkeiten!
+
+---
+
 ## 🔄 6. ABSCHLUSSKETTE
 
 ### Schritt 1: Aufwands- und Ertragskonten auf GuV
@@ -167,9 +244,10 @@ GuV    an    Löhne und Gehälter  (Saldo)
 
 **Ertragskonten schließen:**
 ```
-Umsatzerlöse    an    GuV    (Saldo)
+Umsatzerlöse           an    GuV    (Saldo)
+Sonst. betr. Erträge   an    GuV    (Saldo)
 ```
-⚠️ **NICHT IM TEST** (keine Verkäufe!)
+**⚠️ NEU IM TEST:** Verkäufe sind jetzt dabei!
 
 ### Schritt 2: GuV auf Eigenkapital
 
@@ -280,6 +358,9 @@ Summe   |    Summe
 ❌ **Vorsteuer vergessen** bei Einkäufen  
 ✅ **Immer 19% draufrechnen** und im Soll buchen!
 
+❌ **Umsatzsteuer vergessen** bei Verkäufen **⚡ NEU!**  
+✅ **Immer 19% draufrechnen** und im Haben buchen!
+
 ❌ **Falsche Seite bei Privatkonten**  
 ✅ **Entnahmen = Soll, Einlagen = Haben**
 
@@ -292,22 +373,27 @@ Summe   |    Summe
 ❌ **Aktiva/Passiva verwechselt**  
 ✅ **Aktiva = Vermögen (Soll), Passiva = Kapital (Haben)**
 
+❌ **Rückstellungen mit Verbindlichkeiten verwechselt** **⚡ NEU!**  
+✅ **Rückstellungen = unsicher, Verbindlichkeiten = sicher**
+
 ---
 
 ## 📚 Was du NICHT lernen musst:
 
 - ❌ Theorie (HGB, GoB)
-- ❌ Verkauf von Waren
-- ❌ Verkauf von Anlagevermögen
-- ❌ Fallstudien 1, 2, 3, 7, 8
+- ❌ Fallstudien 1, 2, 3, 4
 
 ---
 
 ## 🚀 Fokus auf:
 
-- ✅ Fallstudie 5 & 6 (Grundlagen)
-- ✅ Fallstudie 9 (ohne Verkäufe!)
+- ✅ Fallstudie 5 & 6 (Grundlagen Einkauf)
+- ✅ **Fallstudie 7 & 8 (Verkauf!) ⚡ NEU IM TEST!**
+- ✅ Fallstudie 9 (Kompletter Durchlauf - MIT Verkäufen!)
 - ✅ Fallstudie 10 (Abschreibung)
+- ✅ **Fallstudie 11 & 12 (Rückstellungen) ⚡ NEU IM TEST!**
+
+**Testtermin:** 23.01.2026, 14:30-15:15 Uhr
 
 ---
 
@@ -317,6 +403,9 @@ Summe   |    Summe
 |----------------------|-------|------------------------------------|
 | Wareneinkauf         | Soll  | "Aufwand kostet Geld"              |
 | Vorsteuer            | Soll  | "Kriegen wir zurück = Forderung"   |
+| **Umsatzerlöse** ⚡   | Haben | "Verkauf bringt Geld = Ertrag"     |
+| **Umsatzsteuer** ⚡   | Haben | "Müssen wir abführen = Schuld"     |
+| **Rückstellungen** ⚡ | Haben | "Zukünftige Schuld = Passiva"      |
 | Privatentnahmen      | Soll  | "Geld raus = wie Aufwand"          |
 | Privateinlagen       | Haben | "Geld rein = wie Ertrag"           |
 | Kasse/Bank Abgang    | Haben | "Wird weniger"                     |

@@ -23,16 +23,17 @@ T-Konten → GuV → Eigenkapital → SBK
 ```
 Diese 4 Schritte sind ALLES! Lerne sie auswendig.
 
-#### 3. **Vorsteuer-Regel (2% Stoff = 15% der Punkte)**
-- Bei JEDEM Einkauf: +19% MwSt.
-- Vorsteuer IMMER im Soll
+#### 3. **Vorsteuer UND Umsatzsteuer (3% Stoff = 15% der Punkte)** ⚡ ERWEITERT!
+- Bei JEDEM Einkauf: +19% MwSt. → Vorsteuer IMMER im Soll
+- **Bei JEDEM Verkauf: +19% MwSt. → Umsatzsteuer IMMER im Haben** ⚡ NEU!
 
-#### 4. **Die 5 wichtigsten Buchungssätze (8% Stoff = 15% der Punkte)**
+#### 4. **Die wichtigsten Buchungssätze (7% Stoff = 15% der Punkte)**
 1. Wareneinkauf mit Vorsteuer
-2. Mietaufwand/Laufende Kosten
-3. Privatentnahmen
-4. Privateinlagen
+2. **Warenverkauf mit Umsatzsteuer** ⚡ NEU!
+3. Mietaufwand/Laufende Kosten
+4. Privatentnahmen & Privateinlagen
 5. Abschreibungen
+6. **Rückstellungen** ⚡ NEU!
 
 **→ Wenn du diese 20% beherrschst, hast du 110% der Grundlagen! Der Rest ist Wiederholung.**
 
@@ -355,27 +356,38 @@ Vorsteuer       19%
 14:00 - 14:25  Pomodoro 5: Fallstudien PDF - Fallstudie 5 & 6
                → Struggle! Erst selbst probieren
 
-14:30 - 14:55  Pomodoro 6: Fallstudie 9 (ohne Verkäufe!)
-               → Aktives Recall: Jeden Schritt selbst machen
+14:30 - 14:55  Pomodoro 6: **Fallstudie 7 & 8 (VERKAUF!)** ⚡ NEU!
+               → Aktives Recall: Umsatzsteuer berechnen üben
 
 15:00 - 15:20  POWERNAP
 ```
 
-**Session 4: Spätnachmittag (60 Min)**
+**Session 4: Spätnachmittag (90 Min)**
 ```
-16:00 - 16:25  Pomodoro 7: Fallstudie 10 (Abschreibung)
+16:00 - 16:25  Pomodoro 7: Fallstudie 9 (MIT Verkäufen!)
+               → Kompletter Durchlauf selbst machen
+
+16:30 - 16:55  Pomodoro 8: Fallstudie 10 (Abschreibung)
                → Feynman: Erkläre es einfach
 
-16:30 - 16:50  Pomodoro 8: Selbsttest (UEBUNGEN.md)
+17:00 - 17:15  POWERNAP
+```
+
+**Session 5: Abend (60 Min)**
+```
+18:00 - 18:25  Pomodoro 9: **Fallstudie 11 & 12 (Rückstellungen)** ⚡ NEU!
+               → Unterschied zu Verbindlichkeiten verstehen
+
+18:30 - 18:50  Pomodoro 10: Selbsttest (UEBUNGEN.md)
                → KOMPLETT ohne Hilfe!
 
-16:50 - 17:00  10 Sekunden nichts tun + Review
+18:50 - 19:00  10 Sekunden nichts tun + Review
 ```
 
 **Abend: Aktives Recall**
 ```
-19:00 - 19:30  Blanktest: Alle Buchungssätze aus dem Kopf
-               → Welche fehlen? → Die nochmal anschauen
+19:30 - 20:00  Blanktest: Alle Buchungssätze aus dem Kopf
+               → **Besonders Verkauf & Rückstellungen prüfen!** ⚡
                
 20:00 - 20:30  Feynman: Erkläre die komplette Abschlusskette
                einem Freund/Familie (oder sprich laut mit dir selbst)
@@ -389,7 +401,7 @@ Vorsteuer       19%
 
 ---
 
-### Tag 3 (Testtag): Morgenroutine
+### Tag 3 (Testtag - 23.01.2026): Morgenroutine
 
 **NICHT den ganzen Morgen lernen!**
 
@@ -399,15 +411,20 @@ Vorsteuer       19%
 07:15 - 07:30  Kurzer Review: CHEATSHEET.md durchblättern
                → NICHT intensiv lernen!
                
-07:30 - 07:45  Mental Rehearsal: Die 3 Schlüsselkonzepte durchgehen
+07:30 - 07:45  Mental Rehearsal: Die 4 Schlüsselkonzepte durchgehen
                1. Soll an Haben
                2. Abschlusskette
-               3. Vorsteuer
+               3. Vorsteuer (Einkauf) & Umsatzsteuer (Verkauf) ⚡
+               4. Rückstellungen vs. Verbindlichkeiten ⚡
 
 07:45 - 08:00  10 Min Spaziergang oder Dehnen
                → Frische Luft, Gehirn wach machen
 
-08:00          Zum Test gehen, ENTSPANNT und VORBEREITET! 💪
+13:00 - 14:00  Mittagessen (leicht!), nochmal CHEATSHEET kurz anschauen
+
+14:00 - 14:30  Zum Test gehen, ENTSPANNT und VORBEREITET! 💪
+
+14:30 - 15:15  TEST (45 Minuten)
 ```
 
 ---

@@ -8,12 +8,18 @@ Ich habe für dich einen **idiotensicheren** Lernplan erstellt, der genau auf de
 
 ---
 
-## 🎯 Deine Situation (verstanden!)
+## 🎯 Deine Situation - UPDATE!
 
-- ✅ Du bist wach und kognitiv leistungsfähig
+**⚠️ WICHTIG: Neue Testinformationen!**
+
+- ✅ **Neuer Testtermin:** 23.01.2026, 14:30-15:15 Uhr
+- ✅ **NEUE THEMEN hinzugekommen:**
+  - Verkauf von Waren (mit Umsatzsteuer!)
+  - Verkauf von Anlagevermögen
+  - Rückstellungen
+- ✅ **Neue Fallstudien-Range:** 5-12 (statt nur 5, 6, 9, 10)
 - ✅ Du brauchst klare, strukturierte Anweisungen ohne Drumherum
-- ✅ Du willst nur das Wesentliche lernen (keine Verkäufe, keine Theorie!)
-- ✅ Fokus auf: Fallstudien 5, 6, 9 (ohne Verkäufe), 10 (Abschreibung)
+- ✅ Evidenzbasierte Lernmethoden für maximalen Erfolg!
 
 ---
 
