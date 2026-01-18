@@ -144,7 +144,7 @@ Die neue Strategie zeigt dir:
 2. **Vorsteuer nie vergessen!**
    - Bei jedem Einkauf: + 19% MwSt.
    - Vorsteuer IMMER im Soll!
-   - **Bei Verkauf: + 19% Umsatzsteuer im Haben!**
+   - **Bei Verkauf: + 19% USt. im Haben!**
 
 3. **Die Abschlusskette kennen!**
    ```
