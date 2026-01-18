@@ -1,5 +1,20 @@
 # 📚 Lernplan: Zwischentest 2 - Buchführung
 
+## ⚡ WICHTIG: Optimale Lernmethode
+
+**→ Lies zuerst [LERNSTRATEGIE.md](./LERNSTRATEGIE.md) für die BESTE Lernmethode!**
+
+Diese Datei enthält den **Inhalt** (WAS du lernen musst).  
+Die LERNSTRATEGIE.md zeigt dir **WIE** du am effektivsten lernst:
+- 80/20-Regel (Fokus aufs Wesentliche)
+- Aktives Recall (3x besser als Lesen!)
+- Optimale Pausen (10-Sekunden-Regel)
+- Detaillierter 2-3 Tages-Plan
+
+**Tipp:** Lies diese Datei hier WÄHREND du die Strategie aus LERNSTRATEGIE.md befolgst!
+
+---
+
 ## ✅ Machbarkeits-Check: Verstehst du das Grundprinzip?
 
 Lass uns mit einem ganz einfachen Beispiel starten. Wenn du das verstehst, kannst du den Rest auch!
@@ -67,6 +82,11 @@ S       |       H           S       |       H
 
 **✅ Check:** Verstehst du das? Aktiva (Vermögen) links = Soll, Passiva (Kapital) rechts = Haben?
 
+**🧠 AKTIVES RECALL:** Bevor du weiterliest, nimm ein Blatt und versuche aus dem Kopf:
+- Zeichne das EBK-Konto
+- Schreibe die 4 Buchungssätze auf
+- Erst dann weiterlesen!
+
 ---
 
 ## 🎯 Beispiel 2: Einkauf von Waren (MIT Vorsteuer!)
@@ -109,6 +129,12 @@ Saldo:  3.810
 
 **✅ Check:** Verstehst du, dass Vorsteuer IMMER auf der Soll-Seite steht? (Du kriegst sie zurück!)
 
+**🧠 AKTIVES RECALL + 10 SEK PAUSE:** 
+1. Decke die Lösung oben ab
+2. Schreibe aus dem Kopf: Wie buche ich einen Wareneinkauf?
+3. 10 Sekunden NICHTS tun (wirklich!)
+4. Vergleiche mit der Lösung
+
 ---
 
 ## 🎯 Beispiel 3: Laufende Kosten buchen (Miete, Zinsen)
@@ -139,6 +165,11 @@ S       |       H           S       |       H
 - Versicherungen an Bank
 
 **✅ Check:** Alle Aufwände stehen im SOLL! Merke dir das!
+
+**💡 FEYNMAN-TECHNIK:** Erkläre in einfachen Worten:
+"Warum stehen Aufwände im Soll?"
+→ Deine Erklärung: ___________________________
+→ Einfach: "Aufwand = kostet Geld = wird mehr (wie Aktiva)"
 
 ---
 
@@ -180,6 +211,14 @@ S       |       H           S       |       H
 ```
 
 **✅ Check:** Entnahmen = Soll (wie Aufwand), Einlagen = Haben (wie Ertrag)
+
+**🔗 VERBINDUNGEN BILDEN:**
+Warum passen Privatentnahmen und Aufwände zusammen?
+→ Beide nehmen Geld aus dem Unternehmen
+→ Beide verringern das Eigenkapital
+→ Beide stehen im Soll
+
+**⏸️ PAUSE:** 10 Sekunden nichts tun, dann weiterlesen
 
 ---
 
@@ -352,6 +391,43 @@ Versuche folgende Situationen zu buchen (Lösungen unten):
 | **Kasse/Bank** (Zugang) | Soll  | Wird mehr                                 |
 | **Eigenkapital (EBK)**   | Haben | Passivseite der Bilanz                    |
 | **Verbindlichkeiten**    | Haben | Schulden = Passivseite                    |
+
+---
+
+### Lösungen:
+
+1. **Maschinen 5.000 € an Kasse 5.950 €**  
+   **Vorsteuer 19% 950 €**
+
+2. **Zinsaufwand 300 € an Bank 300 €**
+
+3. **Privatentnahmen 500 € an Kasse 500 €**
+
+4. **EBK an Eigenkapital 20.000 €**
+
+**🧠 AKTIVES RECALL - STRUGGLE POINT:**
+Wenn du Fehler gemacht hast → PERFEKT! Dein Gehirn lernt jetzt am meisten!
+Versuche nochmal aus dem Kopf, OHNE zur Lösung zu schauen.
+
+**⏸️ 10 SEKUNDEN PAUSE:** Schließe die Augen, denke an nichts. Timer stellen!
+
+---
+
+## 🎯 Feynman-Übung: Erkläre es einfach!
+
+**Nimm ein Blatt Papier und erkläre in DEINEN Worten:**
+
+1. **Was ist "Soll an Haben"?**
+   - Schreibe es auf, als würdest du es einem 10-Jährigen erklären
+   - Wo kommst du ins Stocken? → Das nochmal lernen!
+
+2. **Was ist die Abschlusskette?**
+   - Zeichne sie aus dem Kopf auf
+   - Erkläre jeden Schritt in einem Satz
+
+3. **Warum gibt es Vorsteuer?**
+   - Eigene einfache Erklärung: ___________________
+   - Dann vergleichen mit Material
 
 ---
 

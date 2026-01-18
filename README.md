@@ -1,6 +1,6 @@
-# 📚 Buchführung lernen für Zwischentest 2
+# 📚 Buchführung lernen für Zwischentest 3 (23.01.2026)
 
-Willkommen zu deinen Lernmaterialien für den Zwischentest 2 in Buchführung!
+Willkommen zu deinen Lernmaterialien für den Zwischentest 3 in Buchführung!
 
 ## 🎯 Schnellstart
 
@@ -12,22 +12,37 @@ Diese Lernmaterialien sind speziell auf deine Prüfungsanforderungen zugeschnitt
 - ✅ Buchungssätze und T-Konten
 - ✅ Eröffnungsbilanz (EBK) und Schlussbilanz (SBK)
 - ✅ Einkauf von Waren und Anlagen (mit Vorsteuer!)
+- ✅ **Verkauf von Waren (mit Umsatzsteuer!) - NEU!**
+- ✅ **Verkauf von Anlagevermögen - NEU!**
 - ✅ Laufende Kosten (Miete, Zinsen, etc.)
 - ✅ Privatkonten (Entnahmen und Einlagen)
 - ✅ Abschlusskette: T-Konten → GuV → Eigenkapital → SBK
 - ✅ Abschreibungen (AfA)
+- ✅ **Rückstellungen - NEU!**
 
 ### ❌ Was du NICHT lernen musst:
 - ❌ Theorie (HGB, GoB, etc.)
-- ❌ Verkauf von Waren
-- ❌ Verkauf von Anlagevermögen
-- ❌ Fallstudien 1, 2, 3, 7, 8
+- ❌ Fallstudien 1, 2, 3, 4
 
 ---
 
 ## 📖 Deine Lernmaterialien
 
-### 1. 📋 [README_LERNPLAN.md](./README_LERNPLAN.md) - **START HIER!**
+### 🧠 [LERNSTRATEGIE.md](./LERNSTRATEGIE.md) - **⚡ NEU! ZUERST LESEN! ⚡**
+**Evidenzbasierte Lernmethoden für maximalen Erfolg in kürzester Zeit**
+
+Diese neue Strategie basiert auf wissenschaftlich bewährten Techniken:
+- ✅ 80/20-Regel (Fokus auf das Wichtigste)
+- ✅ Aktives Recall (3x effektiver als passives Lesen!)
+- ✅ Feynman-Technik (Verstehen durch Erklären)
+- ✅ Optimale Lern-/Pausenzyklen
+- ✅ Schlaf & Konsolidierung
+
+**→ Lies das ZUERST, bevor du anfängst zu lernen!**
+
+---
+
+### 1. 📋 [README_LERNPLAN.md](./README_LERNPLAN.md) - **Inhaltlicher Leitfaden**
 **Dein Hauptleitfaden mit Machbarkeits-Check**
 
 Dieser Guide erklärt dir Schritt für Schritt:
@@ -76,6 +91,18 @@ Dein Spickzettel mit:
 
 ## 🚀 Empfohlene Lernstrategie
 
+### ⚡ WICHTIG: Neue optimierte Lernstrategie!
+
+**→ Lies zuerst [LERNSTRATEGIE.md](./LERNSTRATEGIE.md) für die BESTE Lernmethode!**
+
+Die neue Strategie zeigt dir:
+- Wie du in kürzester Zeit das Wichtigste lernst (80/20-Regel)
+- Warum "Struggle" besser ist als einfaches Lesen
+- Wann und wie du Pausen machst (10-Sekunden-Regel!)
+- Einen detaillierten 2-3 Tages-Lernplan
+
+### Klassische Lernstrategie (Alternative):
+
 ### Phase 1: Verstehen (1-2 Stunden)
 1. Lies [README_LERNPLAN.md](./README_LERNPLAN.md) komplett durch
 2. Mache den Machbarkeits-Check am Anfang
@@ -117,6 +144,7 @@ Dein Spickzettel mit:
 2. **Vorsteuer nie vergessen!**
    - Bei jedem Einkauf: + 19% MwSt.
    - Vorsteuer IMMER im Soll!
+   - **Bei Verkauf: + 19% USt. im Haben!**
 
 3. **Die Abschlusskette kennen!**
    ```
@@ -148,10 +176,28 @@ Dein Spickzettel mit:
 In der PDF "02 - Fallstudien.pdf" konzentriere dich auf:
 
 - **Fallstudie 5 & 6:** Grundlagen (Einkauf, einfache Buchungen)
-- **Fallstudie 9:** Kompletter Durchlauf (ABER: Verkäufe weglassen!)
+- **Fallstudie 7 & 8:** Verkauf von Waren und Anlagen **- NEU IM TEST!**
+- **Fallstudie 9:** Kompletter Durchlauf (inkl. Verkäufe!)
 - **Fallstudie 10:** Abschreibungen (AfA)
+- **Fallstudie 11 & 12:** Rückstellungen und weitere Themen **- NEU IM TEST!**
 
-**Ignoriere:** Fallstudien 1, 2, 3, 7, 8
+**Ignoriere:** Fallstudien 1, 2, 3, 4
+
+---
+
+## ⚠️ WICHTIG: Teständerung!
+
+**Neuer Testtermin:** 23.01.2026, 14:30-15:15 Uhr
+
+**Neue Themen (zusätzlich):**
+- ✅ Verkauf von Waren (mit Umsatzsteuer berechnen!)
+- ✅ Verkauf von Anlagevermögen
+- ✅ Rückstellungen
+
+**Testformat laut Kommilitone:**
+- Buchungssätze erstellen (mit Vorsteuer/Umsatzsteuer)
+- T-Konten abschließen
+- Schlusssatz schreiben
 
 ---
 
@@ -221,8 +267,10 @@ Kannst du das alles?
 .
 ├── 02 - Fallstudien.pdf     # Original-PDF mit Fallstudien (Basis)
 ├── README.md                 # Diese Datei (Übersicht)
-├── README_LERNPLAN.md        # Hauptleitfaden mit Erklärungen ⭐
+├── LERNSTRATEGIE.md          # ⚡ NEU! Evidenzbasierte Lernmethoden ⭐
+├── README_LERNPLAN.md        # Hauptleitfaden mit Erklärungen
 ├── CHEATSHEET.md             # Schnellreferenz für Buchungssätze
+├── SCHNELLSTART.md           # Schnelleinstieg und Übersicht
 └── UEBUNGEN.md               # Übungsaufgaben mit Lösungen
 ```
 

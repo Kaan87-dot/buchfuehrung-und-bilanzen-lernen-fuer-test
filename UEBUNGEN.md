@@ -1,6 +1,28 @@
 # 📝 Übungsaufgaben: Fallstudien 5, 6, 9 & 10
 
+## 🧠 WICHTIG: Wie du diese Übungen nutzen solltest
+
+**Für maximalen Lernerfolg (siehe LERNSTRATEGIE.md):**
+
+1. ✅ **Erst SELBST versuchen** - Mindestens 5-10 Minuten kämpfen!
+2. ✅ **Struggle Point** - Fehler sind GUT, so lernst du am meisten
+3. ✅ **10 Sekunden Pause** - Nach jeder Aufgabe: Timer, nichts tun
+4. ✅ **Aktives Recall** - Lösung zudecken, nochmal aus Kopf versuchen
+5. ✅ **Feynman** - Erkläre die Lösung in einfachen Worten
+
+**❌ NICHT SO:** Aufgabe lesen → Sofort Lösung anschauen  
+**✅ SONDERN SO:** Aufgabe lesen → 10 Min selbst kämpfen → Dann Lösung
+
+---
+
 ## 🎯 Übung 1: Basis - Eröffnung und erste Buchungen
+
+### ⚠️ STOP! Bevor du die Lösung anschaust:
+
+**Versuch es ZUERST selbst! Nimm Papier und Stift:**
+- Zeit: 15 Minuten
+- Es ist OK, wenn du Fehler machst!
+- Das ist der "Struggle Point" - hier lernst du am meisten!
 
 ### Aufgabe:
 
@@ -153,9 +175,21 @@ c) Stelle T-Konten auf und bilde die Salden
     ─────────────────────────────
 ```
 
+**🧠 AKTIVES RECALL:**
+1. Decke diese Lösung zu
+2. Versuche aus dem Kopf, die T-Konten nochmal zu zeichnen
+3. 10 Sekunden NICHTS tun (Timer!)
+4. Erst dann vergleichen!
+
+**⏸️ PAUSE:** Jetzt 5 Minuten Pause machen, bevor du zur nächsten Übung gehst!
+
 ---
 
 ## 🎯 Übung 2: Kompletter Abschluss
+
+### ⚠️ STOP! Struggle Point Alert!
+
+**Diese Übung ist schwerer! Kämpfe mindestens 15 Minuten selbst, bevor du zur Lösung schaust!**
 
 ### Aufgabe:
 
@@ -266,9 +300,21 @@ Eigenkapital         an    SBK   33.300 €
 
 **✓ Bilanz ist ausgeglichen!**
 
+**🎯 FEYNMAN-ÜBUNG:**
+Erkläre jemandem (oder laut zu dir selbst):
+1. Warum geht der Verlust auf Eigenkapital?
+2. Was ist der Unterschied zwischen GuV und Eigenkapital?
+3. Warum müssen Aktiva und Passiva gleich sein?
+
+Verwende NUR einfache Worte! Wenn du stockst → nochmal Material lesen.
+
+**⏸️ POWERNAP:** Jetzt 10-15 Minuten Pause! (Timer stellen, wirklich ausruhen)
+
 ---
 
 ## 🎯 Übung 3: Abschreibung (AfA)
+
+### ⚠️ Selbst rechnen vor dem Anschauen der Lösung!
 
 ### Aufgabe:
 
@@ -347,9 +393,21 @@ Abschreibungen    an    Maschinen    2.000 €
 GuV    an    Abschreibungen    2.000 €
 ```
 
+**🔗 VERBINDUNGEN BILDEN:**
+- Warum sinkt der Wert der Maschine jedes Jahr?
+  → Abnutzung, Wertverlust
+- Warum ist Abschreibung ein Aufwand?
+  → Kostet kein Geld direkt, aber Wert wird weniger
+- Wie hängen Abschreibungen und GuV zusammen?
+  → Abschreibungen sind Kosten → gehen in GuV
+
+**⏸️ 10 SEKUNDEN:** Nichts denken, Timer stellen!
+
 ---
 
 ## 🎯 Übung 4: Einkauf auf Ziel (Verbindlichkeiten)
+
+### ⚠️ Erst selbst probieren! Das ist anders als bar zahlen!
 
 ### Aufgabe:
 
@@ -414,9 +472,23 @@ Verbindlichkeiten    an    Bank    2.380 €
     ─────────────────────────────
 ```
 
+**💡 MUSTER ERKENNEN:**
+Einkauf auf Ziel folgt immer diesem Muster:
+1. Erst Buchung: Verbindlichkeiten entstehen
+2. Später Buchung: Verbindlichkeiten bezahlen
+
+**🧠 AKTIVES RECALL:** Erkläre den Unterschied zwischen:
+- Einkauf bar
+- Einkauf per Bank  
+- Einkauf auf Ziel
+
+**⏸️ PAUSE:** 5 Minuten, dann weiter!
+
 ---
 
 ## 🎯 Übung 5: Mix - Privatkonten und Einkauf
+
+### ⚠️ Mix aus allem! Struggle Point, hier lernst du am meisten!
 
 ### Aufgabe:
 
@@ -450,9 +522,30 @@ Verbindlichkeiten    an    Bank    2.380 €
 - Privateinlagen (erhöht EK)
 - Privatentnahmen (senkt EK)
 
+**🎯 FEYNMAN:** Erkläre in einfachen Worten, warum:
+- Einlagen das EK erhöhen
+- Entnahmen das EK senken
+
+**⏸️ POWERNAP:** Wenn du 90 Minuten gelernt hast → 10-15 Min Pause!
+
 ---
 
 ## 🎓 Selbsttest: Kannst du das?
+
+### ⚠️ WICHTIG: Der ultimative Struggle-Test!
+
+**REGELN:**
+1. ❌ KEINE Hilfe anschauen!
+2. ✅ Timer auf 45 Minuten stellen
+3. ✅ Erst komplett fertig machen, DANN vergleichen
+4. ✅ Fehler sind OK - so lernst du!
+
+**Wenn du nicht weiterkommst:**
+- Kämpfe mindestens 5 Minuten
+- Notiere das Problem
+- Dann EINEN Hinweis anschauen (nicht die ganze Lösung!)
+- Nochmal 5 Minuten kämpfen
+- Dann zur Lösung
 
 Versuche folgende Aufgabe **ohne Lösung** zu machen:
 
@@ -482,4 +575,63 @@ Geschäftsvorfälle:
 
 **Tipp:** Wenn du diese Aufgabe schaffst, bist du bereit für den Test! 💪
 
+**Nach dem Selbsttest:**
+
+**🧠 ANALYSE:**
+1. Welche Fehler hast du gemacht? (Liste aufschreiben)
+2. Warum? (Grund für jeden Fehler)
+3. Wie kannst du sie vermeiden? (Strategie)
+
+**🎯 FEYNMAN für schwache Stellen:**
+- Nimm jeden Fehler
+- Erkläre das Konzept in einfachen Worten
+- Wenn du stockst → Material nochmal lesen
+- Nochmal erklären
+
+**💤 SCHLAF DRÜBER:**
+Heute Abend vor dem Schlafen:
+- Wiederhole im Kopf die 3 schwierigsten Konzepte
+- Dein Gehirn konsolidiert das im Schlaf!
+
 **Viel Erfolg!** 🚀
+
+---
+
+## 📊 Nach allen Übungen: Spaced Repetition
+
+**Tag 1:** Übungen 1-3 machen  
+**Tag 2:** Übungen 4-5 + Selbsttest  
+**Tag 3 (Morgen vor Test):**
+- Schneller Durchgang: Alle Aufgaben aus dem Kopf (ohne hinzuschauen)
+- Welche gelingen nicht? → Die nochmal anschauen
+- NICHT intensiv lernen! Nur wiederholen!
+
+**Wissenschaftlicher Grund:**
+- Wiederholung nach 1 Tag = 50% besseres Behalten
+- Wiederholung nach 2 Tagen = 80% besseres Behalten!
+
+---
+
+## ✅ Checkliste: Bist du bereit?
+
+Nach allen Übungen, kannst du aus dem Kopf (OHNE Material):
+
+- [ ] Einen Wareneinkauf mit Vorsteuer buchen
+- [ ] EBK aus einer Bilanz erstellen
+- [ ] T-Konten aufstellen und Salden bilden
+- [ ] GuV erstellen
+- [ ] Gewinn/Verlust auf EK buchen
+- [ ] Privatkonten auf EK buchen
+- [ ] SBK erstellen
+- [ ] Abschreibung berechnen und buchen
+- [ ] Die Abschlusskette in einem Satz erklären
+
+**Wenn ALLE Punkte ✓ → Du bist bereit! 💪**
+
+**Wenn NICHT ALLE ✓:**
+- Notiere die schwachen Punkte
+- Gehe zurück zu den entsprechenden Übungen
+- Nutze Feynman-Technik für diese Punkte
+- Mach die Übung nochmal (aus dem Kopf!)
+
+**Viel Erfolg! 🎯📚**

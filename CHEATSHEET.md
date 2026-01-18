@@ -1,5 +1,19 @@
 # 📋 Schnellreferenz: Buchungssätze für den Test
 
+## 🧠 Wie du dieses Cheatsheet nutzt (siehe LERNSTRATEGIE.md)
+
+**NICHT SO:** ❌ Passiv durchlesen und hoffen, dass es hängen bleibt  
+**SONDERN SO:** ✅ Aktives Recall:
+1. Decke die Buchungssätze zu
+2. Versuche sie aus dem Kopf aufzuschreiben
+3. 10 Sekunden NICHTS tun
+4. Dann vergleichen und Fehler markieren
+5. Fehlerhafte nochmal aus dem Kopf üben
+
+**💡 FEYNMAN:** Kannst du jeden Buchungssatz in einfachen Worten erklären?
+
+---
+
 ## 🎯 Grundregel
 
 ```
@@ -59,6 +73,50 @@ Vorsteuer 19%  MwSt €
 
 **Wichtig:** Vorsteuer IMMER im Soll!
 
+**🧠 RECALL:** Decke die Buchungssätze oben zu und schreibe sie aus dem Kopf auf!
+
+---
+
+## 💶 2b. VERKAUF ⚡ NEU IM TEST!
+
+### Warenverkauf (bar)
+```
+Kasse    (X + MwSt) €    an  Umsatzerlöse     X €
+                         an  Umsatzsteuer 19%  MwSt €
+```
+
+### Warenverkauf (auf Ziel/Kredit)
+```
+Forderungen    (X + MwSt) €    an  Umsatzerlöse     X €
+                                an  Umsatzsteuer 19%  MwSt €
+```
+
+### Warenverkauf (per Bank)
+```
+Bank    (X + MwSt) €    an  Umsatzerlöse     X €
+                        an  Umsatzsteuer 19%  MwSt €
+```
+
+### Verkauf Anlagevermögen (z.B. Maschine bar)
+```
+Kasse                (X + MwSt) €    an  Maschinen          Buchwert
+                                     an  Umsatzsteuer 19%   MwSt €
+                                     an  Sonst. betr. Erträge  Gewinn
+```
+**ODER bei Verlust:**
+```
+Kasse                (X + MwSt) €    an  Maschinen          Buchwert
+Sonst. betr. Aufw.   Verlust         an  Umsatzsteuer 19%   MwSt €
+```
+
+**Wichtig:** 
+- Umsatzsteuer IMMER im Haben!
+- Buchwert = Anschaffungswert - Abschreibungen
+- Verkaufserlös > Buchwert = Gewinn (Ertrag)
+- Verkaufserlös < Buchwert = Verlust (Aufwand)
+
+**🧠 RECALL:** Decke die Verkaufs-Buchungssätze zu und schreibe sie aus dem Kopf auf!
+
 ---
 
 ## 💰 3. LAUFENDE KOSTEN
@@ -84,6 +142,8 @@ Versicherungsaufwand    an  Kasse    X €
 ```
 
 **Merke:** Alle Aufwände = Soll!
+
+**⏸️ PAUSE:** 10 Sekunden nichts tun, dann weitermachen!
 
 ---
 
@@ -111,6 +171,10 @@ Bank               an  Privateinlagen    X €
 
 **Merke:** Entnahmen = Soll (wie Aufwand), Einlagen = Haben (wie Ertrag)
 
+**🔗 VERBINDUNG:** Warum sind Entnahmen wie Aufwände?  
+→ Beide nehmen Geld aus dem Unternehmen  
+→ Beide verringern das Eigenkapital
+
 ---
 
 ## 📉 5. ABSCHREIBUNG (AfA)
@@ -130,6 +194,41 @@ Abschreibungen    an  Maschinen    X €
 
 ---
 
+## 📝 5b. RÜCKSTELLUNGEN ⚡ NEU IM TEST!
+
+### Bildung einer Rückstellung
+```
+Sonstige Aufwendungen    an  Rückstellungen    X €
+```
+**ODER spezifischer:**
+```
+Aufwendungen für Rückstellungen    an  Rückstellungen für ...    X €
+```
+
+**Erklärung:**
+- Rückstellungen = Schulden, die wahrscheinlich kommen (z.B. Prozesskosten, Garantien)
+- Aufwand entsteht JETZT (Soll)
+- Verbindlichkeit wird gebildet (Haben, Passivkonto)
+
+### Auflösung einer Rückstellung (wenn eingetreten)
+```
+Rückstellungen    an  Bank/Kasse    X €
+```
+
+### Auflösung einer Rückstellung (wenn nicht eingetreten)
+```
+Rückstellungen    an  Sonst. betr. Erträge    X €
+```
+
+**Wichtig:** 
+- Rückstellungen sind Passiva (stehen im Haben bei Bildung)
+- Unterschied zu Verbindlichkeiten: Höhe/Zeitpunkt unsicher
+- Beispiele: Prozesskosten, Garantien, Pensionen
+
+**🧠 RECALL:** Erkläre den Unterschied zwischen Rückstellungen und Verbindlichkeiten!
+
+---
+
 ## 🔄 6. ABSCHLUSSKETTE
 
 ### Schritt 1: Aufwands- und Ertragskonten auf GuV
@@ -145,9 +244,10 @@ GuV    an    Löhne und Gehälter  (Saldo)
 
 **Ertragskonten schließen:**
 ```
-Umsatzerlöse    an    GuV    (Saldo)
+Umsatzerlöse           an    GuV    (Saldo)
+Sonst. betr. Erträge   an    GuV    (Saldo)
 ```
-⚠️ **NICHT IM TEST** (keine Verkäufe!)
+**⚠️ NEU IM TEST:** Verkäufe sind jetzt dabei!
 
 ### Schritt 2: GuV auf Eigenkapital
 
@@ -258,6 +358,9 @@ Summe   |    Summe
 ❌ **Vorsteuer vergessen** bei Einkäufen  
 ✅ **Immer 19% draufrechnen** und im Soll buchen!
 
+❌ **Umsatzsteuer vergessen** bei Verkäufen **⚡ NEU!**  
+✅ **Immer 19% draufrechnen** und im Haben buchen!
+
 ❌ **Falsche Seite bei Privatkonten**  
 ✅ **Entnahmen = Soll, Einlagen = Haben**
 
@@ -270,22 +373,27 @@ Summe   |    Summe
 ❌ **Aktiva/Passiva verwechselt**  
 ✅ **Aktiva = Vermögen (Soll), Passiva = Kapital (Haben)**
 
+❌ **Rückstellungen mit Verbindlichkeiten verwechselt** **⚡ NEU!**  
+✅ **Rückstellungen = unsicher, Verbindlichkeiten = sicher**
+
 ---
 
 ## 📚 Was du NICHT lernen musst:
 
 - ❌ Theorie (HGB, GoB)
-- ❌ Verkauf von Waren
-- ❌ Verkauf von Anlagevermögen
-- ❌ Fallstudien 1, 2, 3, 7, 8
+- ❌ Fallstudien 1, 2, 3, 4
 
 ---
 
 ## 🚀 Fokus auf:
 
-- ✅ Fallstudie 5 & 6 (Grundlagen)
-- ✅ Fallstudie 9 (ohne Verkäufe!)
+- ✅ Fallstudie 5 & 6 (Grundlagen Einkauf)
+- ✅ **Fallstudie 7 & 8 (Verkauf!) ⚡ NEU IM TEST!**
+- ✅ Fallstudie 9 (Kompletter Durchlauf - MIT Verkäufen!)
 - ✅ Fallstudie 10 (Abschreibung)
+- ✅ **Fallstudie 11 & 12 (Rückstellungen) ⚡ NEU IM TEST!**
+
+**Testtermin:** 23.01.2026, 14:30-15:15 Uhr
 
 ---
 
@@ -295,6 +403,9 @@ Summe   |    Summe
 |----------------------|-------|------------------------------------|
 | Wareneinkauf         | Soll  | "Aufwand kostet Geld"              |
 | Vorsteuer            | Soll  | "Kriegen wir zurück = Forderung"   |
+| **Umsatzerlöse** ⚡   | Haben | "Verkauf bringt Geld = Ertrag"     |
+| **Umsatzsteuer** ⚡   | Haben | "Müssen wir abführen = Schuld"     |
+| **Rückstellungen** ⚡ | Haben | "Zukünftige Schuld = Passiva"      |
 | Privatentnahmen      | Soll  | "Geld raus = wie Aufwand"          |
 | Privateinlagen       | Haben | "Geld rein = wie Ertrag"           |
 | Kasse/Bank Abgang    | Haben | "Wird weniger"                     |
@@ -302,6 +413,47 @@ Summe   |    Summe
 | Alle Aufwände        | Soll  | "Kosten = Soll"                    |
 | Eigenkapital Start   | Haben | "Rechte Seite der Bilanz = Haben"  |
 | Abschreibungen       | Soll  | "Aufwand = Soll"                   |
+
+---
+
+## 🧠 Aktives Recall - Blanktest
+
+**Bevor du zur Prüfung gehst, mach diesen Test:**
+
+**Nimm ein leeres Blatt Papier und schreibe AUS DEM KOPF auf:**
+
+1. Die 5 wichtigsten Buchungssätze
+2. Die komplette Abschlusskette (mit Erklärung jedes Schritts)
+3. Die T-Konten-Schemas (Aktiv, Passiv, Aufwand, Ertrag)
+4. Alle Eselsbrücken
+
+**Zeit:** 10 Minuten  
+**Regel:** KEINE Hilfe!
+
+**Dann:**
+- Vergleiche mit diesem Cheatsheet
+- Was fehlt? → Nochmal lernen!
+- Was sitzt? → Perfekt! ✓
+
+**⏸️ 10 SEKUNDEN PAUSE:** Dann mental wiederholen
+
+---
+
+## 💤 Vor dem Schlafen (jeden Abend)
+
+**Mental Rehearsal (im Kopf durchgehen):**
+
+1. Die Abschlusskette (T-Konten → GuV → EK → SBK)
+2. Ein Wareneinkauf mit Vorsteuer
+3. Die 3 häufigsten Fehler
+
+**Warum?** Dein Gehirn konsolidiert im Schlaf! Bis zu 40% besseres Erinnern!
+
+**🎯 Am Testtag Morgen:**
+- NICHT intensiv lernen!
+- Nur kurz dieses Cheatsheet durchblättern (5 Min)
+- Mental die Abschlusskette durchgehen
+- Dann entspannt zum Test! 💪
 
 ---
 
